@@ -1,0 +1,7 @@
+Origin: . buster
+Label: . buster
+Archive: buster
+Suite: buster
+Codename: buster
+Architecture: amd64
+Component: main
