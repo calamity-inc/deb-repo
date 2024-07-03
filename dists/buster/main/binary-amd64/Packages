@@ -4,12 +4,12 @@ Priority: optional
 Section: custom
 Maintainer: Sainan <sainan@calamity.gg>
 Architecture: amd64
-Version: 0.9.3
+Version: 0.9.4
 Filename: pool/main/p/pluto/pluto.deb
-Size: 914236
-MD5sum: 4299cf1e721dbd59c8a3f7cfdd612a9b
-SHA1: ea5ff85363a3fabf595cc6397590ca78a0d8b531
-SHA256: 8cdb1a8d0ddac88296805a988b2914897c4135f471860cbe67ac6026a97f2d1b
-SHA512: 1dfdb32b2371e2762fb5c766b774cf7150eecfe791a327a957fe533ba72cf06538ed87e544072c97e7ecbb35a522c4bc578fa9520008056b60bc82af5796553b
+Size: 915756
+MD5sum: e664a09be14a76f60c713e62fdec023d
+SHA1: 9056599788b718b25862fe6b5c81516525936258
+SHA256: 2ed62f2b5f98a76b2fa3a3b9b93ce92f6bc915a953334d499058f7cd73794129
+SHA512: 384077d0ba27c3311235291c6344786c3c313041d23d68fe1e246a150a84d5c46b7a7a5005ea2ea486f9ca81a6252e6d52ff97553c98f094428750958bc29b8b
 Description: A superset of Lua 5.4 with a focus on general-purpose programming.
 
