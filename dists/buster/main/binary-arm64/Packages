@@ -5,7 +5,7 @@ Section: custom
 Maintainer: Sainan <sainan@calamity.inc>
 Architecture: arm64
 Version: 0.13.1
-Filename: pool/main/p/pluto/pluto.arm64.deb
+Filename: pool/main/p/pluto/pluto.0.13.1.arm64.deb
 Size: 1141336
 MD5sum: 2d56c9399d1c7c44e01b17e8e6b00c9c
 SHA1: 09ae97426e163ae43a9fa1ef2f60a1236b71ed32
