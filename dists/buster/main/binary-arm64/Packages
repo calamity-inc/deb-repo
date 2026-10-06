@@ -1,0 +1,15 @@
+Package: pluto
+Essential: no
+Priority: optional
+Section: custom
+Maintainer: Sainan <sainan@calamity.inc>
+Architecture: arm64
+Version: 0.13.1
+Filename: pool/main/p/pluto/pluto.arm64.deb
+Size: 1141336
+MD5sum: 2d56c9399d1c7c44e01b17e8e6b00c9c
+SHA1: 09ae97426e163ae43a9fa1ef2f60a1236b71ed32
+SHA256: 22f7b035d38887274151991fb3abea118957cf5008c3927a28479178632f2ec8
+SHA512: 9f144fafd082995162da6008a57a24c0cf278bb34d419d4b9d7ea9ec388cc4deab19caa3ada76f248642d64b2988ebc34df3c1fd463da8b039b4565298e1ce91
+Description: A superset of Lua 5.4 with a focus on general-purpose programming.
+
