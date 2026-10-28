@@ -390,3 +390,19 @@ SHA256: 1198765c4ffbefa62ade52950ce8f682a1a4dcfc21292a6bad3d08cb80fc0e45
 SHA512: 6e7e7495dfbb728dcc003dd214c77ca53d6af0834e0bd8766ee7786ad2a00f0264e2ff480137d0e0327b79e7b702a57df35e13911545dfc58e430f0cbc11aa3f
 Description: A superset of Lua 5.4 — with unique features, optimizations, and improvements.
 
+Package: sun
+Essential: no
+Priority: optional
+Section: custom
+Maintainer: Sainan <sainan@calamity.inc>
+Architecture: amd64
+Version: 0.6.0
+Depends: libc6 (>= 2.35)
+Filename: pool/main/s/sun/sun.0.6.0.amd64.deb
+Size: 54772
+MD5sum: 66a4c295e0f61cd2e4107d99db86924b
+SHA1: 40892268a6c66487c399afd70e8a33efcdcee00e
+SHA256: 35942bde20a40bb2c9cfacce433a8c14efa1c029ef1bfae1d789d4bd38b1aebf
+SHA512: 8723b00806c21672d8facb92b2d55760ea69ee34fe53120bd858df9c18798f9fd0279bd6517739292ddf668a0f87c4c5977f0747d6c8ff95b4fcfeb43b313e3d
+Description: The C++ build system that just works.
+
