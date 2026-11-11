@@ -4,6 +4,23 @@ Priority: optional
 Section: custom
 Maintainer: Sainan <sainan@calamity.inc>
 Architecture: arm64
+Version: 0.13.3
+Depends: libc6 (>= 2.36)
+Recommends: libreadline-dev
+Filename: pool/main/p/pluto/pluto.0.13.3.arm64.deb
+Size: 1129536
+MD5sum: 6eb639a0a751a7a6954d20d8ecb58bdd
+SHA1: 5e9b0ebc995856e2c62ba2476015cac1431477b0
+SHA256: 1dc0fffd19ab5ba315989b1f55882b7668385903902c7e076d60aafaa03ac702
+SHA512: 323afd5c6f64ae082b7ab6123ed3d0cb5d50e2e7f5f3ce5add6767de30d2ea44658a0939ff3d500e12d82b267bbe615ee297e22e18cee823214eaa9e1461e5a9
+Description: A superset of Lua 5.5 with a focus on general-purpose programming.
+
+Package: pluto
+Essential: no
+Priority: optional
+Section: custom
+Maintainer: Sainan <sainan@calamity.inc>
+Architecture: arm64
 Version: 0.13.2
 Depends: libc6 (>= 2.36)
 Recommends: libreadline-dev
